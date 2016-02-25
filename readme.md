@@ -87,3 +87,9 @@ resources.
 ### Articles
  - [Configuring and using rxvt-unicode](http://510x.se/notes/posts/Configuring_and_using_rxvt-unicode/)
 
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Alex Booker](https://github.com/alexbooker)
+has waived all copyright and related or neighboring rights to this work.
