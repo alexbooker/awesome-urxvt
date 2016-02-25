@@ -15,6 +15,11 @@ Whilst the primary motivation for this repository is to make extensions easy to
 find and install for non-Arch users, also included is a list of useful learning
 resources.
 
+**Contributions are very welcome.** Please feel free to contribute new
+extensions or new installation instructions (e.g. installation instructions for
+other package managers like
+[emerge](https://wiki.gentoo.org/wiki/Portage#emerge)).
+
 ## Extensions
 
 ### Matcher
