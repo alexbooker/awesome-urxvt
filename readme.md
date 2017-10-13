@@ -79,7 +79,7 @@ other package managers like
 ### Screencasts
 
  - [:video_camera: urxvt: Jump Start (1/2)](https://www.youtube.com/watch?v=_kjbj-Ez1vU)
- - [:video_camera: urxvt: Extenions (2/2)]()
+ - [:video_camera: urxvt: Extenions (2/2)](https://www.youtube.com/watch?v=OVko_lhkQjs)
 
 ### Wikis
  - [Arch Wiki](https://wiki.archlinux.org/index.php/rxvt-unicode)
