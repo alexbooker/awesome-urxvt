@@ -82,7 +82,8 @@ other package managers like
  - [:video_camera: urxvt: Extensions (2/2)](https://www.youtube.com/watch?v=OVko_lhkQjs)
 
 ### Wikis
- - [Arch Wiki](https://wiki.archlinux.org/index.php/rxvt-unicode)
+ - [Arch Wiki (main article)](https://wiki.archlinux.org/index.php/rxvt-unicode)
+ - [Arch Wiki (tips and tricks)](https://wiki.archlinux.org/index.php/Rxvt-unicode/Tips_and_tricks)
  - [Gentoo Wiki](https://wiki.gentoo.org/wiki/Rxvt-unicode)
 
 ### Reddit
