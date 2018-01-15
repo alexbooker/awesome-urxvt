@@ -22,6 +22,9 @@ other package managers like
 
 ## Extensions
 
+Extensions should be downloaded to/located in `/usr/lib/urxvt/perl` directory.
+You might as well use something like `wget <extension's URL>` inside that directory to download it.
+
 ### Matcher
 
 **Remarks:** Comes pre-installed.
