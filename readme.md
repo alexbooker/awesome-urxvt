@@ -39,10 +39,13 @@ other package managers like
 ### Tabbedex
 
 **Install:**
- - [From Source](https://raw.githubusercontent.com/stepb/urxvt-tabbedex/master/tabbedex)
  - [From AUR](https://aur.archlinux.org/packages/urxvt-tabbedex/)
+ - [From Source](https://raw.githubusercontent.com/mina86/urxvt-tabbedex/master/tabbedex)
+ - [With install script](https://github.com/mina86/urxvt-tabbedex)
 
 **Documentation:**
+ - Once installed via install script, comes with a man page which you
+   can view by running `man urxvt-tabbedex`.
  - https://wiki.archlinux.org/index.php/rxvt-unicode#Simple_tabs
 
 ### Fullscreen
